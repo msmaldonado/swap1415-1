@@ -1,1 +1,15 @@
 Preguntas tipo test - TEMA 2
+
+1. ¿Con qué tanto por cierto (y su tiempo al año no disponible correspondiente) se conforman los sitios web?
+	a) Alcanzar el 90% de disponibilidad (36.5 días no disponible)
+	b) Alcanzar el 99.99% de disponibilidad (52.56 minutos no disponible)
+	c) Alcanzar el 99.9% de disponibilidad (8.76 horas no disponible)
+	d) Las respuestas b) y c) son ambas correctas.
+	Respuesta correcta: d
+
+2. ¿Cómo podemos calcular la disponibilidad de un sistema?
+	a) Availability = Uptime / (2*Uptime + Downtime)
+	b) Availability = Downtime / (Uptime + Downtime)
+	c) Availability = Uptime / (Uptime - Downtime)
+	d) Ninguna de las anteriores es correcta.
+	Respuesta correcta: d

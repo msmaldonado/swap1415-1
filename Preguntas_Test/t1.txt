@@ -1,1 +1,17 @@
 Preguntas tipo test - TEMA 1
+
+1. ¿Cuál es la mejor solución para un problema de hardware?
+	a) Cambiar a otra máquina sin datos actualizados.
+	b) Comprar una nueva máquina.
+	c) Tener una máquina replicada.
+	d) No hay solución posible al problema de disponibilidad de hardware.
+	Respuesta correcta: c
+
+2. ¿En que mejora configurar varias máquinas cuando se da un problema
+	de carga del sistema?
+	a) No se obtiene ninguna mejora relativa.
+	b) El sitio es escalable y puede dar soporte a más usuarios para un cierto servicio.
+	c) El sitio no es escalable aunque los fallos afectan a todas las máquinas.
+	d) Ante un posible fallo, sólo afecta a este servicio.
+	Respuesta correcta: d
+
