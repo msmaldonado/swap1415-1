@@ -1,0 +1,15 @@
+Preguntas tipo test - TEMA 3
+
+1. ¿Qué alternativas existen para conectar la granja web a otras redes?
+	a) Configuración de DMZ simple, doble y tradicional
+	b) Configuración sin DMZ 
+	c) Configuración sin DMZ simple, doble y tradicional
+	d) Las respuestas a) y b) son correctas
+	Respuesta correcta: d
+
+2. ¿Qué problemas puede producir una configuración de DMZ simple?
+	a) Que los servidores no se conecten directamente a internet.
+	b) Que el cortafuegos pueda producir un cuello de botella.
+	c) Que los servidores no se conecten directamente a internet y pero ya no compartan el ancho de banda con las máquinas de escritorio.
+	d) Ninguna de las anteriores es correcta.
+	Respuesta correcta: b
