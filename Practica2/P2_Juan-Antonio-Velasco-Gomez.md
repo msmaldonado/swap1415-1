@@ -6,9 +6,7 @@ En primer lugar, para comprobar la copia de ficheros, hemos creado un archivo ta
 
 Puesto que la herramienta rsync ya estaba instalada en nuestras máquinas, hemos clonado una carpeta cualquiera, en este caso la del ejemplo que el guión nos proporcionaba. (desde root para tener permiso)
 
-(Capturas de pantalla 1 y 2 - "Sincronización" y "Archivos sincronizados")
-
-	![Captura 1](/sincronizacion.png)
+![Captura 1](images/sincronizacion.png)
 
 	rsync -avz -e ssh root@maquina1:/var/www/ /var/www/
 
