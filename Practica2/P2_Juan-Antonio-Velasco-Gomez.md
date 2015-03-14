@@ -10,16 +10,24 @@ Puesto que la herramienta rsync ya estaba instalada en nuestras máquinas, hemos
 
 	rsync -avz -e ssh root@maquina1:/var/www/ /var/www/
 
+![Captura 2](images/archivossincronizados.png)
+
 Comprobamos que el archivo clonado esta en la otra máquina
 	
 	ls -la /var/www
 
-Buscamos ahora acceder sin contraseña para ssh, para ello usaremos ssh-keygen para generar la clave (con la opción -t elegimos el tipo de clave)  (captura de pantalla 3 - "Uso de sshkeygen")
+Buscamos ahora acceder sin contraseña para ssh, para ello usaremos ssh-keygen para generar la clave (con la opción -t elegimos el tipo de clave)
+
+![Captura 3](images/sshkeygen.png)
 
 	ssh-keygen -t dsa
 
 La captura de pantalla 4 - "Conectarse como root en la otra máquina" muestra como hemos sido capaces de conectarnos como superusuario o root desde la máquina 1 en la máquina 2.
 
+![Captura 4](images/root.png)
+
 Lo último que se nos pide es programar una tarea con crontab. En este caso, programaremos en cron que se ejecute cada hora para mantener actualizado el contenido del directorio /var/www entre las dos máquinas.
 
-Esto lo hemos hecho editando el archivo /etc/crontab como se ve en la captura de pantalla correspondiente (Captura de pantalla 5 - "TareaCrontab")
+Esto lo hemos hecho editando el archivo /etc/crontab como se ve en la captura de pantalla correspondiente
+
+![Captura 5](images/crontab.png)
