@@ -1,4 +1,10 @@
-**Práctica 2** - Juan Antonio Velasco Gómez, Miguel Sanchez Maldonado
+**Práctica 2**
+==================
+
+- Realizado por:
+	+ Juan Antonio Velasco Gómez
+	+ Miguel Sanchez Maldonado
+
 
 En primer lugar, para comprobar la copia de ficheros, hemos creado un archivo tar.gz de un equipo para dejarlo en el otro.
 
