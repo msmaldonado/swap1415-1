@@ -1,4 +1,4 @@
-**Práctica 3**
+**Práctica 3:** Balanceo de carga
 ==================
 
 - Realizado por:
@@ -32,7 +32,7 @@ Ahora ya podemos instalar el paquete del nginx:
 Uso de Nginx como balanceador
 ------------------
 
-La configuración inicial de nginx no nos vale tal cual está, modificamos el fichero * /etc/nginx/conf.d/default.conf *
+La configuración inicial de nginx no nos vale tal cual está, modificamos el fichero */etc/nginx/conf.d/default.conf*
 
 ![Captura 1](images/nginx.png)
 
