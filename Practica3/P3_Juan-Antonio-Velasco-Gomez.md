@@ -1,4 +1,9 @@
-**Práctica 3** - Juan Antonio Velasco Gómez, Miguel Sanchez Maldonado
+**Práctica 3**
+==================
+
+·Realizado por:
+	- Juan Antonio Velasco Gómez
+	- Miguel Sanchez Maldonado
 
 Instalando Nginx como balanceador
 ------------------
