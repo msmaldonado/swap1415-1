@@ -1,9 +1,9 @@
 **Práctica 3**
 ==================
 
-·Realizado por:
-	- Juan Antonio Velasco Gómez
-	- Miguel Sanchez Maldonado
+- Realizado por:
+	+ Juan Antonio Velasco Gómez
+	+ Miguel Sanchez Maldonado
 
 Instalando Nginx como balanceador
 ------------------
@@ -29,6 +29,10 @@ Ahora ya podemos instalar el paquete del nginx:
 	apt-get update
 	apt-get install nginx
 
+Uso de Nginx como balanceador
+------------------
+
+La configuración inicial de nginx no nos vale tal cual está, modificamos el fichero * /etc/nginx/conf.d/default.conf *
 
 ![Captura 1](images/nginx.png)
 
