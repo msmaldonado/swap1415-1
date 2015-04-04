@@ -1,0 +1,11 @@
+Preguntas tipo test - TEMA 4
+
+1. ¿Cuándo utilizaremos algoritmos basados en ponderación en el balanceo de carga?
+	a) Clas máquinas van a ser similares y vamos a servir carga contenido estático.
+	b) Cuando las máquinas son similares y vamos a servir
+	contenido dinámico.
+	c) Cuando las máquinas son heterogéneas y vamos a servir
+	contenido dinámico.
+	d) Nunca utilizaremos este tipo de algoritmos. Usaremos algoritmos estáticos.
+	Respuesta correcta: c
+
