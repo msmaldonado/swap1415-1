@@ -36,7 +36,7 @@ La configuración inicial de nginx no nos vale tal cual está, modificamos el fi
 
 	upstream apaches {
 	server	192.168.1.100;
- 	 server 172.16.168.131;
+ 	 server 192.168.1.101;
 	}
 
 Configuramos nginx para indicarle que use ese grupo definido para pasarle las peticiones.
