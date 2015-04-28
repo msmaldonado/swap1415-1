@@ -35,7 +35,7 @@ Ahora ya podemos instalar el paquete del nginx:
 La configuración inicial de nginx no nos vale tal cual está, modificamos el fichero */etc/nginx/conf.d/default.conf*, añadiendo:
 
 	upstream apaches {
-	 server 172.16.168.130;
+	server	192.168.1.100;
  	 server 172.16.168.131;
 	}
 
