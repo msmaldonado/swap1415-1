@@ -16,3 +16,5 @@ Contenido del directorio de la asignatura
   + **Tema 2:** Alta disponibilidad y escalabilidad
   + **Tema 3:** La red de una granja web
   + **Tema 4:** Balanceo de carga
+  + **Tema 5:** Medir prestaciones
+  + **Tema 6:** Asegurar el sistema web
