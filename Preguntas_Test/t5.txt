@@ -1,0 +1,15 @@
+Preguntas tipo test - TEMA 5
+
+1. ¿Qué caracteriza al tipo de tráfico HTTP?
+	a) Consumen ancho de banda intesivamente y generan muchas conexiones por segundo.
+	b) No es necesario un alto ancha de banda ni existen demasiadas conexiones por segundo.
+	c) Consumen el ancho de banda máximo rápidamente y el número de conexiones es inferior a la cantidad de información.
+	d) Consumen mucho ancho de banda pero generan pocas conexiones por segundo.
+	Respuesta correcta: a)
+
+2. ¿Cuándo es bueno usar el software de Apache Benchamark?
+	a) Nunca, puesto que no simula bien el uso del sitio web que pueden hacer los usuarios habitualmente.
+	b) Cuando se quiere comprobar cómo se comporta el servicio después de modificar cierta configuración, dando una idea exacta del rendimiento de este.
+	c) Cuando se quiere simular con total fidelidad el uso del sitio, pues da una idea exacta del rendimiento real.
+	d) Cuando se quiere comprobar cómo se comporta el servicio después de modificar cierta configuración, aunque no reflejan el rendimiento real del sitio.
+	Respuesta correcta: d)
