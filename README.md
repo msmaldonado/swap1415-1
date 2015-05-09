@@ -9,6 +9,9 @@ Contenido del directorio de la asignatura
   + **Práctica 1:** Presentación de la herramienta Github
   + **Práctica 2:** Clonar la información de un sitio web
   + **Práctica 3:** Balanceo de carga
+  + **Práctica 4:** Comprobar el rendimiento de servidores web
+  + **Práctica 5:** Replicación de bases de datos Mysql
+  + **Práctica 6:** Discos en RAID
 
 - Preguntas tipo test
 -------------------
