@@ -1,0 +1,16 @@
+
+Preguntas tipo test - TEMA 8
+
+1. ¿En que consiste el elemento de un granja, NAS?
+	a) Es una red de almacenamiento especializada que conecta dispositivos de almacenamiento a los servidores.
+	b) Es un dispositivo específico que incluye varios discos en rack .
+	c) Es un dispositivo que actúa como un servidor de ficheros, pero ahorrando los recursos de tener una máquina más. 
+	d) Es una red de almacenamiento especializada que conecta dispositivos de entrada a los servidores.
+	RESPUESTA CORRECTA: c
+
+2. ¿Qué caracteriza una conexion de red Myrinet?
+	a) Tiene una latencia teórica es de 1,43 µs y ancho de banda de 5333 Mbit/s bidireccional. 
+	b) La conexión básica es de 2 Gbit/s efectivos
+	c) Su ancho de banda es de 2 a 10 Gbit/s. 
+	d) La conexión va desde un Host Channel Adapter (HCA) hasta un Target Channel Adapter (TCA).
+	RESPUESTA CORRECTA: c
