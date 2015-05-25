@@ -1,0 +1,15 @@
+Preguntas tipo test - TEMA 7
+
+1. ¿Qué es el RAID?
+	a) Es un sistema de almacenamiento que usa múltiples discos duros entre los que se distribuyen o replican los datos.
+	b) Es un sistema de almacenamiento que usa un único disco duro donde se almacenan los datos.
+	c) Es un sistema de almacenamiento que usa múltiples discos duros entre los que únicamente se distribuyen los datos.
+	d) Es un sistema de almacenamiento que usa múltiples discos duros entre los que únicamente se replican los datos.
+	RESPUESTA CORRECTA: a
+
+2. ¿En qué consiste el RAID 5?
+	a) En un conjunto dividido 
+	b) En un conjunto dividido con paridad distribuida 
+	c) En un conjunto en espejo 
+	d) Las respuestas b y c son correctas
+	RESPUESTA CORRECTA: b
