@@ -21,3 +21,8 @@ Contenido del directorio de la asignatura
   + **Tema 4:** Balanceo de carga
   + **Tema 5:** Medir prestaciones
   + **Tema 6:** Asegurar el sistema web
+
+  - Trabajo final asignatura: " High Availability, Load Balancing y Replication con PostgreSQL "
+  -------------------
+
+  
