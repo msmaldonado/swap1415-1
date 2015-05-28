@@ -24,7 +24,6 @@ Contenido del directorio de la asignatura
 
   - High Availability, Load Balancing y Replication con PostgreSQL
   -------------------
-
   + Comandos PostgreSQL
   + Enlaces utiles
   + Resumen del trabajo
